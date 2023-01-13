@@ -1,5 +1,5 @@
 {
-  "name": "serverless-basic-authentication",
+  "name": "enkonix-serverless-basic-authentication",
   "version": "0.14.1",
   "devDependencies": {
     "eslint": "^5.16.0",
@@ -13,7 +13,7 @@
     "test:watch": "jest --watch"
   },
   "repository": {
-    "git": "https://github.com/svdgraaf/serverless-basic-authentication"
+    "git": "https://github.com/enkonix/serverless-basic-authentication"
   },
   "main": "lib/index.js",
   "dependencies": {
